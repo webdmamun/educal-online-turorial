@@ -1,3 +1,14 @@
 .full-width-home-container {
   background-color: #f7f7f7;
 }
+.view-courses-btn {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  padding: 5px 20px;
+}
+.view-courses-btn:hover {
+  color: white;
+}

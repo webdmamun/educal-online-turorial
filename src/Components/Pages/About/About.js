@@ -1,9 +1,14 @@
 import React from "react";
+import Body from "./Body/Body";
+import Cover from "./Cover/Cover";
+import Partner from "./Partner/Partner";
 
 const About = () => {
   return (
     <div>
-      <h2>this is about page</h2>
+      <Cover></Cover>
+      <Body></Body>
+      <Partner></Partner>
     </div>
   );
 };

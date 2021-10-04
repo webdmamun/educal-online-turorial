@@ -18,21 +18,21 @@ const Footer = () => {
                 <br /> Educators can customize lesson <br /> plans to best.
               </p>
               <a href="/#" target="_blank">
-                <i class="fab fa-facebook-square"></i>
+                <i className="fab fa-facebook-square"></i>
               </a>
               <a href="/#" target="_blank">
-                <i class="fab fa-linkedin"></i>
+                <i className="fab fa-linkedin"></i>
               </a>
               <a href="/#" target="_blank">
-                <i class="fab fa-twitter-square"></i>
+                <i className="fab fa-twitter-square"></i>
               </a>
             </div>
           </Col>
           <Col>
-            <div class="wrapper">
-              <div class="bottom">
+            <div className="wrapper">
+              <div className="bottom">
                 <form action="#">
-                  <div class="input-box">
+                  <div className="input-box">
                     <input
                       type="text"
                       name=""
@@ -44,7 +44,7 @@ const Footer = () => {
                     <input type="submit" name="" value="Subscribe" />
                   </div>
                 </form>
-                <div class="info">
+                <div className="info">
                   Get the latest news and updates right at your inbox.
                 </div>
               </div>

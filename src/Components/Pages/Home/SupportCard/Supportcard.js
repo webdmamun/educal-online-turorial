@@ -28,14 +28,14 @@ const Supportcard = () => {
               4,000 <br /> Online courses
             </h5>
             {/* Arrow button start  */}
-            <a class="cm-animated-arrow" href="/">
-              <span class="cm-the-arrow cm-left">
-                <span class="shaft"></span>
+            <a className="cm-animated-arrow" href="/">
+              <span className="cm-the-arrow cm-left">
+                <span className="shaft"></span>
               </span>
-              <span class="cm-main">
-                <span class="cm-text">Read More</span>
-                <span class="cm-the-arrow cm-right">
-                  <span class="cm-shaft"></span>
+              <span className="cm-main">
+                <span className="cm-text">Read More</span>
+                <span className="cm-the-arrow cm-right">
+                  <span className="cm-shaft"></span>
                 </span>
               </span>
             </a>
@@ -47,20 +47,20 @@ const Supportcard = () => {
             className="card card-1 single-support-card"
             style={{ backgroundColor: "#DD246E" }}
           >
-            <i class="fas fa-book-open card-icon"></i>
+            <i className="fas fa-book-open card-icon"></i>
             <h5 className="card-title">
               Job placement <br />
               Support
             </h5>
             {/* Arrow button start  */}
-            <a class="cm-animated-arrow" href="/">
-              <span class="cm-the-arrow cm-left">
-                <span class="shaft"></span>
+            <a className="cm-animated-arrow" href="/">
+              <span className="cm-the-arrow cm-left">
+                <span className="shaft"></span>
               </span>
-              <span class="cm-main">
-                <span class="cm-text">Read More</span>
-                <span class="cm-the-arrow cm-right">
-                  <span class="cm-shaft"></span>
+              <span className="cm-main">
+                <span className="cm-text">Read More</span>
+                <span className="cm-the-arrow cm-right">
+                  <span className="cm-shaft"></span>
                 </span>
               </span>
             </a>
@@ -72,20 +72,20 @@ const Supportcard = () => {
             className="card card-1 single-support-card"
             style={{ backgroundColor: "#8007E6" }}
           >
-            <i class="fas fa-headset card-icon"></i>
+            <i className="fas fa-headset card-icon"></i>
             <h5 className="card-title">
               Lifetime <br />
               Slack chat support
             </h5>
             {/* Arrow button start  */}
-            <a class="cm-animated-arrow" href="/">
-              <span class="cm-the-arrow cm-left">
-                <span class="shaft"></span>
+            <a className="cm-animated-arrow" href="/">
+              <span className="cm-the-arrow cm-left">
+                <span className="shaft"></span>
               </span>
-              <span class="cm-main">
-                <span class="cm-text">Read More</span>
-                <span class="cm-the-arrow cm-right">
-                  <span class="cm-shaft"></span>
+              <span className="cm-main">
+                <span className="cm-text">Read More</span>
+                <span className="cm-the-arrow cm-right">
+                  <span className="cm-shaft"></span>
                 </span>
               </span>
             </a>
@@ -97,20 +97,20 @@ const Supportcard = () => {
             className="card card-1 single-support-card"
             style={{ backgroundColor: "#0CAE74" }}
           >
-            <i class="fas fa-asterisk card-icon"></i>
+            <i className="fas fa-asterisk card-icon"></i>
             <h5 className="card-title">
               Research <br />
               and Innovation
             </h5>
             {/* Arrow button start  */}
-            <a class="cm-animated-arrow" href="/">
-              <span class="cm-the-arrow cm-left">
-                <span class="shaft"></span>
+            <a className="cm-animated-arrow" href="/">
+              <span className="cm-the-arrow cm-left">
+                <span className="shaft"></span>
               </span>
-              <span class="cm-main">
-                <span class="cm-text">Read More</span>
-                <span class="cm-the-arrow cm-right">
-                  <span class="cm-shaft"></span>
+              <span className="cm-main">
+                <span className="cm-text">Read More</span>
+                <span className="cm-the-arrow cm-right">
+                  <span className="cm-shaft"></span>
                 </span>
               </span>
             </a>
