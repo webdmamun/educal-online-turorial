@@ -1,9 +1,15 @@
 import React from "react";
+import Cover from "./Cover/Cover";
+import "./Home.css";
+import Servicecart from "./ServiceCart/Servicecart";
+import Supportcard from "./SupportCard/Supportcard";
 
 const Home = () => {
   return (
     <div>
-      <h2>this is home</h2>
+      <Cover></Cover>
+      <Supportcard></Supportcard>
+      <Servicecart></Servicecart>
     </div>
   );
 };
