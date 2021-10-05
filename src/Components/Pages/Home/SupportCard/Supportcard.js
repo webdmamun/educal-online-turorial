@@ -1,5 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./Supportcard.css";
 
 const Supportcard = () => {
@@ -28,7 +29,7 @@ const Supportcard = () => {
               4,000 <br /> Online courses
             </h5>
             {/* Arrow button start  */}
-            <a className="cm-animated-arrow" href="/">
+            <Link to="/about" className="cm-animated-arrow">
               <span className="cm-the-arrow cm-left">
                 <span className="shaft"></span>
               </span>
@@ -38,7 +39,7 @@ const Supportcard = () => {
                   <span className="cm-shaft"></span>
                 </span>
               </span>
-            </a>
+            </Link>
             {/* Arrow button end  */}
           </div>
 
@@ -53,7 +54,7 @@ const Supportcard = () => {
               Support
             </h5>
             {/* Arrow button start  */}
-            <a className="cm-animated-arrow" href="/">
+            <Link to="/about" className="cm-animated-arrow">
               <span className="cm-the-arrow cm-left">
                 <span className="shaft"></span>
               </span>
@@ -63,7 +64,7 @@ const Supportcard = () => {
                   <span className="cm-shaft"></span>
                 </span>
               </span>
-            </a>
+            </Link>
             {/* Arrow button end  */}
           </div>
           {/* single card three*/}
@@ -78,7 +79,7 @@ const Supportcard = () => {
               Slack chat support
             </h5>
             {/* Arrow button start  */}
-            <a className="cm-animated-arrow" href="/">
+            <Link to="/about" className="cm-animated-arrow">
               <span className="cm-the-arrow cm-left">
                 <span className="shaft"></span>
               </span>
@@ -88,7 +89,7 @@ const Supportcard = () => {
                   <span className="cm-shaft"></span>
                 </span>
               </span>
-            </a>
+            </Link>
             {/* Arrow button end  */}
           </div>
           {/* single card four */}
@@ -103,7 +104,7 @@ const Supportcard = () => {
               and Innovation
             </h5>
             {/* Arrow button start  */}
-            <a className="cm-animated-arrow" href="/">
+            <Link to="/about" className="cm-animated-arrow">
               <span className="cm-the-arrow cm-left">
                 <span className="shaft"></span>
               </span>
@@ -113,7 +114,7 @@ const Supportcard = () => {
                   <span className="cm-shaft"></span>
                 </span>
               </span>
-            </a>
+            </Link>
             {/* Arrow button end  */}
           </div>
         </div>

@@ -28,7 +28,7 @@ const Footer = () => {
               </a>
             </div>
           </Col>
-          <Col>
+          <Col className="d-flex justify-content-end">
             <div className="wrapper">
               <div className="bottom">
                 <form action="#">
